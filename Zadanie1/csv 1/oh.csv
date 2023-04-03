@@ -1,0 +1,36 @@
+id;type;year;order;city;country
+1;LOH;1948;14;Londýn;UK
+2;LOH;1952;15;Helsinki;Fínsko
+3;LOH;1956;16;Melbourne/Štokholm;Austrália/Švédsko
+4;LOH;1960;17;Rím;Taliansko
+5;LOH;1964;18;Tokio;Japonsko
+6;LOH;1968;19;Mexiko;Mexiko
+7;LOH;1972;20;Mníchov;Nemecko
+8;LOH;1976;21;Montreal;Kanada
+9;LOH;1980;22;Moskva;Sovietsky zväz
+10;LOH;1984;23;Los Angeles;USA
+11;LOH;1988;24;Soul;Južná Kórea
+12;LOH;1992;25;Barcelona;Španielsko
+13;LOH;1996;26;Atlanta;USA
+14;LOH;2000;27;Sydney;Austrália
+15;LOH;2004;28;Atény;Grécko
+16;LOH;2008;29;Peking/Hongkong;Čína
+17;LOH;2012;30;Londýn;UK
+18;LOH;2016;31;Rio de Janeiro;Brazília
+19;LOH;2020;32;Tokio;Japonsko
+20;ZOH;1964;9;Innsbruck;Rakúsko
+21;ZOH;1968;10;Grenoble;Francúzsko
+22;ZOH;1972;11;Sapporo;Japonsko
+23;ZOH;1976;12;Innsbruck;Rakúsko
+24;ZOH;1980;13;Lake Placid;USA
+25;ZOH;1984;14;Sarajevo;Juhoslávia
+26;ZOH;1988;15;Calgary;Kanada
+27;ZOH;1992;16;Albertville;Francúzsko
+28;ZOH;1994;17;Lillehammer;Nórsko
+29;ZOH;1998;18;Nagano;Japonsko
+30;ZOH;2002;19;Salt Lake City;USA
+31;ZOH;2006;20;Turín;Taliansko
+32;ZOH;2010;21;Vancouver;Kanada
+33;ZOH;2014;22;Soči;Rusko
+34;ZOH;2018;23;Pjongčang;Kórea
+35;ZOH;2022;24;Peking;Čína

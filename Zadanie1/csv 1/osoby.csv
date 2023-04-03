@@ -1,0 +1,24 @@
+id;name;surname;birth_day;birth_place;birth_country;death_day;death_place;death_country
+1;Peter;Hochschorner;1979-09-07;Bratislava;Slovensko;NULL;NULL;NULL
+2;Pavol;Hochschorner;1979-09-07;Bratislava;Slovensko;NULL;NULL;NULL
+3;Elena;Kaliská;1972-01-19;Zvolen;Slovensko;NULL;NULL;NULL
+4;Anastasiya;Kuzmina;1984-08-28;Ťumeň;Sovietsky zväz;NULL;NULL;NULL
+5;Michal;Martikán;1979-05-18;Liptovský Mikuláš;Slovensko;NULL;NULL;NULL
+6;Ondrej;Nepela;1951-01-22;Bratislava;Slovensko;1989-02-02;Mannheim;Nemecko
+7;Jozef;Pribilinec;1960-07-06;Kopernica;Slovensko;NULL;NULL;NULL
+8;Anton;Tkáč;1951-03-30;Lozorno;Slovensko;NULL;NULL;NULL
+9;Ján;Zachara;1928-08-27;Kubrá pri Trenčíne;Slovensko;NULL;NULL;NULL
+10;Július;Torma;1922-03-07;Budapešť;Maďarsko;1991-10-23;Praha;Česko
+11;Stanislav;Seman;1952-08-06;Košice;Slovensko;NULL;NULL;NULL
+12;František;Kunzo;1954-09-17;Spišský Hrušov;Slovensko;NULL;NULL;NULL
+13;Miloslav;Mečíř;1964-05-19;Bojnice;Slovensko;NULL;NULL;NULL
+14;Radoslav;Židek;1981-10-15;Žilina;Slovensko;NULL;NULL;NULL
+15;Pavol;Hurajt;1978-02-04;Poprad;Slovensko;NULL;NULL;NULL
+16;Matej;Tóth;1983-02-10;Nitra;Slovensko;NULL;NULL;NULL
+17;Matej;Beňuš;1987-11-02;Bratislava;Slovensko;NULL;NULL;NULL
+18;Ladislav;Škantár;1983-02-11;Kežmarok;Slovensko;NULL;NULL;NULL
+19;Peter;Škantár;1982-07-20;Kežmarok;Slovensko;NULL;NULL;NULL
+20;Erik;Vlček;1981-12-29;Komárno;Slovensko;NULL;NULL;NULL
+21;Juraj;Tarr;1979-02-18;Komárno;Slovensko;NULL;NULL;NULL
+22;Denis;Myšák;1995-11-30;Bojnice;Slovensko;NULL;NULL;NULL
+23;Tibor;Linka;1995-02-13;Šamorín;Slovensko;NULL;NULL;NULL

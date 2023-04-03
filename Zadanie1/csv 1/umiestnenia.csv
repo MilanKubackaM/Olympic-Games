@@ -1,0 +1,44 @@
+id;person_id;oh_id;placing;discipline
+1;1;14;1;vodný slalom - C2
+2;1;15;1;vodný slalom - C2
+3;1;16;1;vodný slalom - C2
+4;1;17;3;vodný slalom - C2
+5;2;14;1;vodný slalom - C2
+6;2;15;1;vodný slalom - C2
+7;2;16;1;vodný slalom - C2
+8;2;17;3;vodný slalom - C2
+9;3;13;19;vodný slalom - K1
+10;3;14;4;vodný slalom - K1
+11;3;15;1;vodný slalom - K1
+12;3;16;1;vodný slalom - K1
+13;4;32;1;biatlon - šprint na 7.5 km
+14;5;13;1;vodný slalom - C1
+15;5;14;2;vodný slalom - C1
+16;5;15;2;vodný slalom - C1
+17;5;16;1;vodný slalom - C1
+18;5;17;3;vodný slalom - C1
+19;6;20;22;krasokorčuľovanie
+20;6;21;8;krasokorčuľovanie
+21;6;22;1;krasokorčuľovanie
+22;7;11;1;atletika - chôdza
+23;8;8;1;dráhová cyklistika - šprint
+24;9;2;1;box do 57 kg
+25;10;1;1;box do 67 kg
+26;11;9;1;futbal
+27;12;9;1;futbal
+28;13;11;1;tenis
+29;4;32;2;biatlon - stíhacie preteky na 10 km
+30;15;32;3;biatlon - hromadný štart
+31;14;31;2;snoubordkros
+32;4;33;1;biatlon - šprint na 7.5 km
+33;4;34;1;biatlon - hromadný štart
+34;4;34;2;biatlon - stíhacie preteky na 10 km
+35;4;34;2;biatlon - vytrvalostné preteky na 15 km
+36;18;18;1;vodný slalom - C2
+37;19;18;1;vodný slalom - C2
+38;16;18;1;atletika - chôdza
+39;17;18;2;vodný slalom - C1
+40;20;18;2;kanoistika - K4 na 1000m
+41;21;18;2;kanoistika - K4 na 1000m
+42;22;18;2;kanoistika - K4 na 1000m
+43;23;18;2;kanoistika - K4 na 1000m
